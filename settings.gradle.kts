@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "WorkshipFlow"
+rootProject.name = "WorshipFlow"
 include(":app")
